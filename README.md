@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Chetan Pawar 👋
 
-<!--
-**DevChetan98/DevChetan98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend Engineer with 4+ years of experience building scalable applications.
 
-Here are some ideas to get you started:
+## Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Node.js
+- Express.js
+- MySQL/PostgreSQL
+- Redis
+- REST APIs
+- JWT Authentication
+- Git
+
+## Experience
+
+Worked on:
+- Backend APIs
+- Authentication Systems
+- Database Design
+- Third-Party Integrations
+- Transaction Processing
+- Performance Optimization
+- Casino Integration
+- iGaming Development 
+
+## Contact
+
+LinkedIn: [<your-linkedin>](https://www.linkedin.com/in/chetan-pawar-650a8818b)
+Email: chetanpawar1231998@gmail.com
