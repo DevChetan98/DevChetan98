@@ -26,5 +26,5 @@ Worked on:
 
 ## Contact
 
-LinkedIn: https://www.linkedin.com/in/chetan-pawar-650a8818b
+LinkedIn:[ https://www.linkedin.com/in/chetan-pawar-650a8818b](https://www.linkedin.com/in/chetan-pawar-650a8818b/)
 Email: chetanpawar1231998@gmail.com
